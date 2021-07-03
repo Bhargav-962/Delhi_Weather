@@ -5,8 +5,8 @@ The selected dataset records the weather in Delhi throughout the years 1997-2017
   
 We have used 3 collab notebooks with the links to each being provided here.    
 1)Cleaning Colab  
-https://colab.research.google.com/drive/1Wcn0o8MwoLlL5oyOj4JhJE18m-y119uh?usp=sharing  
+https://colab.research.google.com/drive/1uIXINM-umTEetedNfDL874gcmxWOLpau?usp=sharing  
 2)Initial Visualisation with hypothesis testing  
-https://colab.research.google.com/drive/1aCTzWPZrFv0STlvxefJ67WXGaBnbIzUt?usp=sharing  
+https://colab.research.google.com/drive/1x7-Dv0XekJZgEK_c8XzBB1QmwUqwyIqq?usp=sharing  
 3)Final Visualisation with correlation  
-https://colab.research.google.com/drive/1m3KnW2eiYTI2iXGCmeBs8v7sAlCarPqw?usp=sharing
+https://colab.research.google.com/drive/1qNwPa1dZjw0lIEgUtgw6lIUoQEoe96kn?usp=sharing
